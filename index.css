@@ -34,6 +34,10 @@
 
     .form-container {
      display:grid;
+    justify-content: center;
+    justify-items: center;
+        max-width: 600px;
+        width: 100%;
       background-color: #f9f9f9;
       padding: 20px;
       border-radius: 20px;

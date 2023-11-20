@@ -23,7 +23,9 @@
 
 
 .image {
-    width: 433px;
+    display: flex;
+    max-width: 433px;
+    width: 100%;
     margin: 10px 0px;
     
 }
